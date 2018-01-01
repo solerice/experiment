@@ -1,0 +1,9 @@
+class perceptron {
+  float[] weight = new float[2];
+  // constructor
+  perceptron() {
+    for (int i = 0; i < weights.length; i++) {
+      weight[i] = random(-1,1);
+    }
+  }
+}  
